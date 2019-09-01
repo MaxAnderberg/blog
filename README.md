@@ -1,0 +1,1 @@
+This is a basic blog where each post is wrapped by a div tag with a class = "post". Naturally, this is not a realistic way of building a blog. To get it to work as a blog you would need to automate the post-admition page, comments, upvotes etc. 
